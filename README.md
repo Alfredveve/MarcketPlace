@@ -12,6 +12,11 @@ La présentation de mes services informatiques
 ----------------------------------
 # LES PARTIES DU PROJECT
 
+LES PARTIES DU PROJECT
+0 - Introduction
+  - Setting up
+1 - Our first app
+2 - Items
 3 - Detail page
 4 - Signing up
 5 - Loggin in
@@ -20,3 +25,6 @@ La présentation de mes services informatiques
 8 - Deleting items
 9_  Editing items
 10- Searching
+11 - Communicating
+12 - Summary
+
